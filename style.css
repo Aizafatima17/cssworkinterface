@@ -1,0 +1,27 @@
+
+div{
+
+    height: 1100px;;
+    width:50%;
+    background-color: white;
+}
+/* div.box{
+    height: 75%;
+    width:75%;
+    background: #000;
+}
+
+p{ height: 40px;
+width:80%;
+background-color: black;
+} */
+#pa{ 
+    color: white;
+    height: 50px;
+    width: 90%;
+    background-color: black;
+}
+#pb{
+    
+    line-height:11px;
+}
